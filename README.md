@@ -1,8 +1,8 @@
 # Geometry Processing Smoothing
 
-> **To get started:** Fork this repository then issue
+> **To get started:** Clone (**do not fork publicly**) this repository
 > 
->     git clone --recursive http://github.com/[username]/geometry-processing-smoothing.git
+>     git clone --recursive https://github.com/odedstein/fs-2024-csci-599-exercise-4.git
 >
 
 ## Installation, Layout, and Compilation
